@@ -1,4 +1,4 @@
-## `📝Todo List📝`
+## `📝TodoList📝`
 
 This is a simple web application for creating a Todo List. Users can add new tasks, delete them, and mark tasks as completed. There is also the ability to highlight tasks with even and odd indices.
 
